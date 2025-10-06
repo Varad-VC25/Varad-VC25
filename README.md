@@ -1,6 +1,6 @@
 # Hello, I'm Varad Choukekar
 
-[![LinkedIn - Varad Choukekar](https://img.shields.io/badge/LINKEDIN-VARAD%20CHOUKEKAR-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-choukekar-675b4a329)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-choukekar-675b4a329)
 [![GitHub - Varad-VC25](https://img.shields.io/badge/GITHUB-VARAD--VC25-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varad-VC25)
 [![Portfolio - Varad Choukekar](https://img.shields.io/badge/PORTFOLIO-VARAD%20CHOUKEKAR-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link-here)
 
