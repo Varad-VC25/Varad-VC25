@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-choukekar-675b4a329)
 [![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varad-VC25)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link-here)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://varad-vc25.github.io/My-Portfolio/)
 
 ---
 
