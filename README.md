@@ -29,8 +29,9 @@ Seeking **internship opportunities** to gain real-world experience and enhance t
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| **Virtual Bookshelf** | A system to manage and organize books virtually, allowing users to add, view, and search for books. | MERN Stack, REST API |
-| **Movie Ticket Booking System** | Application to book movie tickets, display available shows, and manage user data securely. | Python, Tkinter, MySQL |
+| [Virtual Bookshelf](https://github.com/Varad-VC25/Virtual-Bookshelf) | Manage and organize books virtually. | MERN Stack, API |
+| [Movie Ticket Booking System](https://github.com/Varad-VC25/Movie-Ticket-Booking-System) | Book movie tickets and manage user data securely. | Python, Tkinter, MySQL |
+
 
 ---
 
