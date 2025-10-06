@@ -66,9 +66,9 @@ Seeking **internship opportunities** to gain real-world experience and enhance t
 ---
 
 ## 📫 Contact Me
-📧 **Email:** varadchoukekar25@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/varad-choukekar-675b4a329](https://www.linkedin.com/in/varad-choukekar-675b4a329)  
-💻 **GitHub:** [github.com/Varad-VC25](https://github.com/Varad-VC25)
+[![Email](https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=linkedin&logoColor=white)](varadchoukekar25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-choukekar-675b4a329) 
+[![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varad-VC25)
 
 ---
 
