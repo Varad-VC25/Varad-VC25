@@ -51,7 +51,7 @@ Seeking **internship opportunities** to gain real-world experience and enhance t
 
 | Qualification | Institution | Year | Result |
 |----------------|--------------|------|--------|
-| **B.E. in Computer Engineering** | Rajiv Gandhi Institute of Technology, Mumbai | 2023 – Present | CGPA: 6.92 |
+| **B.E. in Computer Engineering** | Rajiv Gandhi Institute of Technology, Mumbai | 2023 – Present | CGPA: 7.01 |
 | **HSC (12th)** | SVP Junior College of Science and Commerce | 2023 | 65.33% |
 | **SSC (10th)** | St. Paul’s High School | 2021 | 82.60% |
 
