@@ -30,8 +30,8 @@ Seeking **internship opportunities** to gain real-world experience and enhance t
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [Virtual Bookshelf](https://github.com/Varad-VC25/Virtual-Book-Shelf) | Manage and organize books virtually. | MERN Stack, API |
+| [Personalized HealthCare Companion](https://github.com/Varad-VC25/Personalized-HealthCare-Companion)| AI healthcare assistant with personalized support. | React, FastAPI (Python), MongoDB, HTML, CSS, JavaScript|
 | [Movie Ticket Booking](https://github.com/Varad-VC25/Movie-Ticket-Booking) | Book movie tickets and manage user data securely. | Python, Tkinter, MySQL |
-
 
 ---
 
