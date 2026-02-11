@@ -1,8 +1,24 @@
-# Hello, I'm Varad Choukekar
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-choukekar-675b4a329)
-[![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varad-VC25)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://varad-vc25.github.io/My-Portfolio/)
+<h1 align="center">Hello👋, I'm Varad Choukekar</h1>
+
+<h3 align="center">
+💻 Computer Engineering Student | 🤖 AI Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=1000&color=8A2BA2&center=true&vCenter=true&width=650&lines=Exploring+AI+and+Computer+Engineering;Building+Small+Projects;Open+to+Internship+Opportunities" />
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/varad-choukekar-675b4a329">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<a href="https://github.com/Varad-VC25">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<a href="https://varad-vc25.github.io/My-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
 
 ---
 
