@@ -36,10 +36,16 @@ Seeking **internship opportunities** to gain real-world experience and enhance t
 ---
 
 ## 🏅 Certifications & Achievements
+- 🧠 **Artificial Intelligence & Machine Learning Internship (IBM SkillsBuild – AICTE Edunet Foundation)**  
+  *Dec 2025 – Jan 2026*  
+  Completed a 6-week internship demonstrating strong technical and problem-solving skills in AI & Machine Learning.  
+  Developed an AI-based Student Travel Assistant with practical, real-world implementation.  
+  Earned IBM SkillsBuild AI Fundamentals Certification and AICTE–Edunet Internship Completion Certificate.
+
 - 🧩 **Web Development Internship (Prodigy InfoTech)**  
   *June 2025 – July 2025*  
   Completed a 1-month internship demonstrating strong technical and problem-solving skills.  
-  _Received Letter of Recommendation for dedication and performance._
+  Received Letter of Recommendation for dedication and performance.
   
 - 🎓 **TCS iON Career Edge – Young Professional** (Dec 2024)  
   Covered modules like Communication Skills, Resume Writing, Interview Preparation,  
