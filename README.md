@@ -29,18 +29,6 @@ Seeking **internship opportunities** to gain real-world experience and enhance t
 
 ---
 
-## 🧠 Skills
-
-| Category | Technologies |
-|-----------|---------------|
-| **Frontend** | HTML, CSS, JavaScript |
-| **Backend** | Python, Java |
-| **Database** | MySQL |
-| **Web Development Tools** | Tkinter, MERN Stack |
-| **Other Interests** | Artificial Intelligence, API Integration |
-
----
-
 ## 💻 Academic Projects
 
 | Project | Description | Tech Stack |
@@ -80,10 +68,33 @@ Seeking **internship opportunities** to gain real-world experience and enhance t
 ---
 
 ## ⚙️ Tools & Technologies
-**Languages:** Python, Java, JavaScript, HTML, CSS  
-**Frameworks:** MERN Stack, Tkinter  
-**Databases:** MySQL, MongoDB  
-**Version Control:** Git, GitHub  
+
+### 💻 Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Tkinter](https://img.shields.io/badge/tkinter-FFCA28?style=for-the-badge&logo=python&logoColor=black)
+
+---
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🛠️ Version Control & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -93,5 +104,7 @@ Seeking **internship opportunities** to gain real-world experience and enhance t
 [![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varad-VC25)
 
 ---
+
+<p align="center"> <img src="https://raw.githubusercontent.com/Varad-VC25/Varad-VC25/output/github-contribution-grid-snake.svg" alt="snake animation"/> </p>
 
 ⭐ *“Striving to turn ideas into reality through code and creativity.”*
