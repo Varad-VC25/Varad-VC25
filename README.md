@@ -1,9 +1,10 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3C1361,50:52307C,100:663A82&height=260&section=header&text=Varad%20Choukekar&fontSize=50&fontColor=ffffff&font=Righteous&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20<!--|%20AI%20Enthusiast-->&descAlignY=56&descSize=18&descColor=ffffff"/>
 
 <h1 align="center">Hello👋, I'm Varad Choukekar</h1>
 
-<h3 align="center">
+<!--<h3 align="center">
 💻 Computer Engineering Student | 🤖 AI Enthusiast
-</h3>
+</h3>-->
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=1000&color=8A2BA2&center=true&vCenter=true&width=650&lines=Exploring+AI+and+Computer+Engineering;Building+Small+Projects;Open+to+Internship+Opportunities" />
@@ -26,6 +27,15 @@
 Motivated and enthusiastic **Computer Engineering** student with a keen interest in **Web Development**, **Artificial Intelligence**, and **Database Management**.  
 Currently building strong foundations in technologies like **Python**, **Java**, **MySQL**, **HTML/CSS**, and **JavaScript**.  
 Seeking **internship opportunities** to gain real-world experience and enhance technical and problem-solving skills.
+
+---
+
+## 🚀 Currently Focusing On
+
+- 🌱 Learning Advanced MERN Stack
+- 🧠 Practicing Data Structures & Algorithms
+- 🚀 Building Full Stack Projects
+- 🤝 Looking for Internship Opportunities
 
 ---
 
@@ -76,21 +86,15 @@ Seeking **internship opportunities** to gain real-world experience and enhance t
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
----
-
 ### 🚀 Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/tkinter-FFCA28?style=for-the-badge&logo=python&logoColor=black)
 
----
-
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
----
 
 ### 🛠️ Version Control & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -107,4 +111,6 @@ Seeking **internship opportunities** to gain real-world experience and enhance t
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Varad-VC25/Varad-VC25/output/github-contribution-grid-snake.svg" alt="snake animation"/> </p>
 
-⭐ *“Striving to turn ideas into reality through code and creativity.”*
+<h3 align="center"><b><i>⭐ “Striving to turn ideas into reality through code and creativity.”</i></b></h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3C1361,50:52307C,100:663A82&height=120&section=footer"/>
