@@ -32,10 +32,10 @@ Seeking **internship opportunities** to gain real-world experience and enhance t
 
 ## 🚀 Currently Focusing On
 
-- 🌱 Learning Advanced MERN Stack
-- 🧠 Practicing Data Structures & Algorithms
-- 🚀 Building Full Stack Projects
-- 🤝 Looking for Internship Opportunities
+- Learning Advanced MERN Stack
+- Practicing Data Structures & Algorithms
+- Building Full Stack Projects
+- Looking for Internship Opportunities
 
 ---
 
