@@ -44,7 +44,7 @@ Seeking **internship opportunities** to gain real-world experience and enhance t
 | Project | Description | Tech Stack |
 |----------|-------------|------------|
 | [Virtual Bookshelf](https://virtual-book-shelf-coral.vercel.app) | Manage and organize books virtually with CRUD operations and responsive UI. | MERN Stack, REST API |
-| [Personalized Healthcare Companion](https://github.com/Varad-VC25/Personalized-HealthCare-Companion) | AI-powered healthcare assistant with personalized health tracking and medication reminders. | React, FastAPI (Python), MongoDB, HTML, CSS, JavaScript |
+| [Personalized Mental Health Companion](https://mind-well-mental-health-companion.vercel.app/) | AI-powered healthcare assistant with personalized health tracking and medication reminders. | React, FastAPI (Python), MongoDB, HTML, CSS, JavaScript |
 | [StaySwift – Hotel Reservation System](https://stay-swift-hotel-reservation-system.vercel.app) | Full-stack hotel reservation platform with JWT authentication, online booking, email notifications, PDF invoices, QR code verification, and review management. | React, TypeScript, Node.js, Express.js, MySQL, Tailwind CSS |
 
 ---
