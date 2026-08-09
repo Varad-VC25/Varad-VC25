@@ -17,7 +17,7 @@
 <a href="https://github.com/Varad-VC25">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<a href="https://varad-vc25.github.io/My-Portfolio/">
+<a href="https://my-portfolio-one-xi-73.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
@@ -39,13 +39,99 @@ Seeking **internship opportunities** to gain real-world experience and enhance t
 
 ---
 
-## 💻 Academic Projects
+## 🌟 Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| [Virtual Bookshelf](https://virtual-book-shelf-coral.vercel.app) | Manage and organize books virtually with CRUD operations and responsive UI. | MERN Stack, REST API |
-| [Personalized Mental Health Companion](https://mind-well-mental-health-companion.vercel.app/) | AI-powered healthcare assistant with personalized health tracking and medication reminders. | React, FastAPI (Python), MongoDB, HTML, CSS, JavaScript |
-| [StaySwift – Hotel Reservation System](https://stay-swift-hotel-reservation-system.vercel.app) | Full-stack hotel reservation platform with JWT authentication, online booking, email notifications, PDF invoices, QR code verification, and review management. | React, TypeScript, Node.js, Express.js, MySQL, Tailwind CSS |
+<table>
+<tr>
+<td width="50%">
+
+### 📚 [Virtual Bookshelf](https://virtual-book-shelf-coral.vercel.app/)
+
+MERN-based digital library platform for managing, organizing, searching, and maintaining personal book collections with complete CRUD functionality and a responsive user interface.
+
+**Tech:** `MongoDB` `Express.js` `React` `Node.js` `REST API`
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://virtual-book-shelf-coral.vercel.app/)
+[![GitHub](https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github)](https://github.com/Varad-VC25/Virtual-Book-Shelf)
+
+</td>
+
+<td width="50%">
+
+### 🩺 [Personalized Mental Health Companion](https://mind-well-mental-health-companion.vercel.app/)
+
+AI-powered healthcare assistant providing personalized health tracking, medication reminders, intelligent chatbot support, and wellness monitoring for improved health management.
+
+**Tech:** `React` `FastAPI` `MongoDB` `HTML` `CSS` `JavaScript`
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://mind-well-mental-health-companion.vercel.app/)
+[![GitHub](https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github)](https://github.com/Varad-VC25/Personalized-HealthCare-Companion)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏨 [StaySwift – Hotel Reservation System](https://stay-swift-hotel-reservation-system.vercel.app/)
+
+Full-stack hotel reservation platform featuring JWT authentication, online booking, email notifications, PDF invoice generation, QR code verification, and customer review management.
+
+**Tech:** `React` `TypeScript` `Node.js` `Express.js` `MySQL` `Tailwind CSS`
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://stay-swift-hotel-reservation-system.vercel.app/)
+[![GitHub](https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github)](https://github.com/Varad-VC25/StaySwift-Hotel-Reservation-System)
+
+</td>
+
+<td width="50%">
+
+### ✈️ [AI Student Travel Planner](https://ai-student-travel-assistant.streamlit.app/)
+
+AI-powered travel planner that generates personalized, budget-friendly itineraries using intelligent recommendations, real-time location insights, and interactive map visualizations.
+
+**Tech:** `Python` `Streamlit` `Groq AI` `Maps API`
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://ai-student-travel-assistant.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github)](https://github.com/Varad-VC25/AI-Travel-Planner)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 [Real-Time Chat Application](https://chat-app-varad-dev.vercel.app/)
+
+Real-time messaging platform featuring secure JWT authentication, instant messaging, image sharing, and seamless communication powered by Socket.IO.
+
+**Tech:** `MongoDB` `Express.js` `React` `Node.js` `Socket.IO`
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://chat-app-varad-dev.vercel.app/)
+[![GitHub](https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github)](https://github.com/Varad-VC25/Chat-App)
+
+</td>
+
+<td width="50%">
+
+### 🔐 Blockchain-Based Secure Document Sharing Platform
+
+Secure decentralized document-sharing platform enabling encrypted document storage and controlled access using AES-256 encryption, IPFS, and Ethereum smart contracts.
+
+**Tech:** `Blockchain` `Ethereum` `Solidity` `Smart Contracts` `IPFS` `AES-256` `Web3`
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](YOUR-LIVE-DEMO-LINK)
+[![GitHub](https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github)](https://github.com/Varad-VC25/blockchain-document-sharing)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🔥 [View All Projects →](https://github.com/Varad-VC25?tab=repositories)
+
+</div>
 
 ---
 
