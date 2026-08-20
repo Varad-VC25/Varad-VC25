@@ -19,6 +19,10 @@
 
 <a href="https://my-portfolio-one-xi-73.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Varad-VC25&label=Profile%20Views&color=8A2BA2&style=for-the-badge" alt="Profile Views"/>
+</p>
 </p>
 
 ---
@@ -136,6 +140,7 @@ Secure decentralized document-sharing platform enabling encrypted document stora
 ---
 
 ## 🏅 Certifications & Achievements
+
 - 🧠 **Artificial Intelligence & Machine Learning Internship (IBM SkillsBuild – AICTE Edunet Foundation)**  
   *Dec 2025 – Jan 2026*  
   Completed a 6-week internship demonstrating strong technical and problem-solving skills in AI & Machine Learning.  
@@ -155,16 +160,22 @@ Secure decentralized document-sharing platform enabling encrypted document stora
 
 ## 🎓 Education
 
+<div align="center">
+
 | Qualification | Institution | Year | Result |
 |----------------|--------------|------|--------|
 | **B.E. in Computer Engineering** | Rajiv Gandhi Institute of Technology, Mumbai | 2023 – Present | CGPA: 7.04 |
 | **HSC (12th)** | SVP Junior College of Science and Commerce | 2023 | 65.33% |
 | **SSC (10th)** | St. Paul’s High School | 2021 | 82.60% |
 
+</div>
+
 ---
 
 ## ⚙️ Tools & Technologies
 
+<div align="center">
+ 
 ### 💻 Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -185,13 +196,19 @@ Secure decentralized document-sharing platform enabling encrypted document stora
 ### 🛠️ Version Control & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
 ## 📫 Contact Me
+
+<div align="center">
+ 
 [![Email](https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail&logoColor=black&labelColor=red)](mailto:varadchoukekar25@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-choukekar-675b4a329) 
 [![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varad-VC25)
+
+</div>
 
 ---
 
